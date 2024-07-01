@@ -1,0 +1,17 @@
+name: simple_debouncer
+description: A simple debouncer utility for Flutter.
+version: 0.0.1
+homepage: https://github.com/vivekjivani/simple_debouncer
+repository: https://github.com/vivekjivani/simple_debouncer
+issue_tracker: https://github.com/vivekjivani/simple_debouncer/issues
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
